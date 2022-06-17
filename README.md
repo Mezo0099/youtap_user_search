@@ -6,7 +6,7 @@ In this project I have used a **Layered Hexagonal Architecture**.
 
 ### Demonstration:
 
-<img src="https://github.com/Mezo0099/youtap_user_search/blob/main/demo.gif?raw=true" height="600px" width="350px"/>
+<img src="https://github.com/Mezo0099/youtap_user_search/blob/main/Demo.gif?raw=true" height="600px" width="350px"/>
 
 > Realtime Full Demonstration
 
